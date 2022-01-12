@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "92911268663",
+    "project_id": "suma-d2410",
+    "storage_bucket": "suma-d2410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92911268663:android:bfcd1501ff7795c98760b2",
+        "android_client_info": {
+          "package_name": "com.example.sum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92911268663-8vduj0389vslad6fmdfftpcnpr68qud1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sum",
+            "certificate_hash": "1fa07c0d94c333410be10b777cd10b5ab17cf7be"
+          }
+        },
+        {
+          "client_id": "92911268663-33lk75cqr2qk1utaop5hineo5iia9sin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVCadSeQfIbdNqYvPzWCz3MITHJt9ByXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92911268663-33lk75cqr2qk1utaop5hineo5iia9sin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
